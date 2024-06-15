@@ -7,8 +7,6 @@ import MiddlePart from './MiddlePart'; // Assuming MiddlePart is in the same dir
 import Reels from './Reels'; // Assuming Reels is in the same directory
 import CreateReelsFrom from './CreateReelsFrom'; // Assuming CreateReelsFrom is in the same directory
 import Profile from './Profile'; // Ensure this path and file name are correct
-import Profile from './Profile.jsx'; // or .js
-
 
 const HomePage = () => {
     const location = useLocation();
